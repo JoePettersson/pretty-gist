@@ -1,12 +1,10 @@
 #Pretty Gist
 
-[![Build Status](https://secure.travis-ci.org/JoePettersson/pretty-gist.png?branch=master)](http://travis-ci.org/JoePettersson/pretty-gist)
-
 A jQuery plugin to make prettier and more functional embedded Github Gists.
 
 ![image](http://i.imgur.com/lz8c8.jpg)
 
-[Plugin website](http://www.joepettersson.com/pretty-gist/) | [Demos](http://www.joepettersson.com/demo/pretty-gist/) | [@Joe8Bit](http://twitter.com/Joe8Bit) 
+[Plugin website](http://www.joepettersson.com/pretty-gist/) | [Demos](http://www.joepettersson.com/demo/pretty-gist/) | [@Joe8Bit](http://twitter.com/Joe8Bit) | [@labmouse_](http://twitter.com/labmouse_) 
 
 Pretty Gist is a simple jQuery plugin to make the rather drab default Github embedded Gists look a little better. It also includes syntax highlighting, via the excellent bundled [Highlight.js](http://softwaremaniacs.org/soft/highlight/en/), which includes many cool themes for you to choose from.
 
@@ -121,6 +119,7 @@ Setting `extendedHeader` to `false` will mean that no user information is displa
 Setting `showFooter` to `false` will, self-evidently mean that the footer is not shown.
 
 Both of these config options can be seen at the [demo url](http://www.joepettersson.com/demo/pretty-gist/).
+
 
 ###License
 
